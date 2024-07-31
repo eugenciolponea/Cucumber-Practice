@@ -1,6 +1,7 @@
 # Cucumber-Practice
 A simple test on the following page:
 <img width="744" alt="image" src="https://github.com/user-attachments/assets/6629165f-daf6-4e57-a1e0-fccc43f9b420">
+ 
  Happy Scenario 1: Insert the first name,last name, email address and a comment and click Submit
 
 Expected outcome:
